@@ -1,0 +1,24 @@
+# Dataset (download separately, see README)
+input/
+*.csv
+*-ubyte
+*.zip
+
+# Trained models
+model/
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+myenv/
+
+# OS / IDE
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
